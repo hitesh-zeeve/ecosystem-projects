@@ -1,0 +1,23 @@
+{
+    "name": "Zeeve",
+    "slug": "zeeve",
+    "date": "2022-06-14",
+    "highlight": "Zeeve is the leading managed web3 infrastructure platform providing full nodes, archive nodes, validator nodes, shared APIs and LedgerData APIs.",
+    "logo": "/img/zeeve-logo.png",
+    "tags": [
+        "infrastructure",
+        "nodes",
+        "tools",
+        "api"
+    ],
+    "status": "live",
+    "website": "https://zeeve.io/",
+    "twitter": "https://twitter.com/0xZeeve",
+    "summary": "Zeeve is an enterprise-grade managed web3 infrastructure platform that enables developers, web3 startups and validators deploy and manage web3 infrastructure including full nodes, archive nodes, validator nodes, managed shared APIs and LedgerData Query APIs. Zeeve's enterprise-grade deployment architecture and security layer ensures blazing speed, reliability, availability and scalability. Zeeve platform also features realtime monitoring, pro-active alerts and data analytics for the web3 infrastructure.",
+    "telegram": "https://t.me/ZeeveDeeptech",
+    "discord": "https://discord.gg/SBGDEgfJW2",
+    "docs": "https://zeeve.readthedocs.io/en/latest/",
+    "github": "https://github.com/Zeeve-App",
+    "token": "",
+    "cmc": ""
+}
